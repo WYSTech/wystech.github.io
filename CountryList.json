@@ -1,0 +1,35 @@
+[
+    {
+        "Country": "USA",
+        "Picture": "us-flag.jpg"
+    },
+    {
+        "Country": "UK",
+        "Picture": "uk-flag.jpg"
+    },
+    {
+        "Country": "Canada",
+        "Picture": "ca-flag.jpg"
+    },
+    {
+        "Country": "France",
+        "Picture": "fr-flag.jpg"
+    },
+    {
+        "Country": "Italy",
+        "Picture": "it-flag.jpg"
+    },
+    {
+        "Country": "Spain",
+        "Picture": "es-flag.jpg"
+    },
+    {
+        "Country": "Mexico",
+        "Picture": "mx-flag.jpg"
+    },
+    
+    {
+        "Country": "China",
+        "Picture": "cn-flag.jpg"
+    }
+]
